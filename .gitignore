@@ -201,3 +201,5 @@ cmake/cmake-build-debug/
 .idea
 *.iml
 /cmake/install
+/cmake/build_x86
+/cmake/install_x86
